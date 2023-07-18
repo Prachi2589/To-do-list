@@ -66,7 +66,7 @@ input, button {
 	background-color: #494c53cb;
 	cursor: pointer;
 	transition: 0.6s;
-	border-radius: 5px;
+	border-radius: 6px;
 }
 
 #new-task-submit:hover {
@@ -104,7 +104,7 @@ main {
 .task-list h2 {
 	font-size: 2rem;
 	font-weight: 800;
-	color: black;
+	color: #000000;
 	margin-bottom: 2rem;
 }
 
